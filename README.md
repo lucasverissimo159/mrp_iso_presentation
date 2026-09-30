@@ -1,9 +1,5 @@
 # Systems Engineering Presentation - MRP & ISO / Apresentação de Engenharia de Sistemas - MRP e ISO
 
-> **Repository Description / Descrição para o Repositório:**
-> Academic presentation on Material Requirements Planning (MRP) and ISO Standards (ISO 9001, 14001, 45001, 27001, 31000) applied to Systems Engineering, with complete documentation and slide screenshots.
-> *Apresentação acadêmica sobre Planejamento das Necessidades de Materiais (MRP) e Normas ISO aplicadas à Engenharia de Sistemas, com documentação completa e capturas de tela dos slides.*
-
 ---
 
 ## 🇬🇧 English Version
